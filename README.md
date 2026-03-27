@@ -1,6 +1,5 @@
 # Meu Projeto Git
-Projeto simples para demonstrar o uso básico do
-Git.
+Este projeto ensina Git na prática 
 
 ## Arquivos
 - README.md
